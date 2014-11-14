@@ -223,3 +223,4 @@ out/
 TestEver.iml
 *.iml
 pat.iml
+*.class
