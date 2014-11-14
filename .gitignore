@@ -216,6 +216,7 @@ pip-log.txt
 #############
 ## Intellj
 #############
+*/target
 TestEver/target/
 .idea/
 out/
