@@ -2,6 +2,7 @@ package basiclevelpractise;
 
 import java.util.Scanner;
 
+
 public class P1027 {
 	public static int calc(int in){
 		int result =0;
